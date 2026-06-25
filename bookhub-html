@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Download</title>
+</head>
+<body style="font-family: Arial; text-align:center; padding:50px;">
+
+  <h1>Thank you for your purchase</h1>
+  <p>Your download is ready.</p>
+
+  <a href="https://drive.google.com/file/d/1vtbrmvXOqcZG0WqWzaRoaxOScKIKUQpv/view?usp=sharing"
+     style="display:inline-block; padding:15px 25px; background:#CD8899; color:white; text-decoration:none; border-radius:8px;">
+     Download Your Template
+  </a>
+
+</body>
+</html>
